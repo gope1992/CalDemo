@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Its a simple testing purpose as well where its used"
+echo "hello bablu whats up"
